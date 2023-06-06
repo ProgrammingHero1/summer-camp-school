@@ -312,5 +312,5 @@ Show all approved classes on this page. Each Class will have the following:
 <hr/>
 <br/>
 
-### Earn you Reward:
+### Earn your Reward:
 The greatest joys of life aren't gifted; they're earned.
