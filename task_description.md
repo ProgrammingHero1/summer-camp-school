@@ -136,7 +136,7 @@ Show all approved classes on this page. Each Class will have the following:
     <br/>
     ***It will be private & only a student can access this route.***
     
-     - **My Selected Classes:** The student will see all the Classes they booked after clicking the Select button. You must display the relevant information on the Class, Delete, and Pay buttons. More in point 11. On clicking the **Delete button**, a student can remove a selected Class from the list.
+     - **My Selected Classes:** The student will see all the Classes they booked after clicking the Select button. You must display the relevant information on the Class, Delete, and Pay buttons. More in point 9. On clicking the **Delete button**, a student can remove a selected Class from the list.
 
      - **My Enrolled Classes:**  Show all the Classes a student selected after successful payment.
 
